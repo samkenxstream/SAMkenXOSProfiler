@@ -1,4 +1,4 @@
-# Gradle Profiler
+# Universal Profiler ~ SAMkenXOSProfiler
 
 A tool to automate the gathering of profiling and benchmarking information for Gradle builds.
 
